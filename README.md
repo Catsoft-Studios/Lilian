@@ -21,5 +21,17 @@ Basically what she does is to retrieve the user's question, split it into words 
 This algorithm exhaustively iterates through the corpus and so we need a way to access its data as fast as possible. And the answer to that is by using a Double Ternary Search Tree (DTST).
 A DTST is a normal TST but where every node has another TST.
 
-### The DTST
+Installing Lilian
+-----------------
 
+The easiest way to install lilian is by downloading all files located inside the `netbeans` folder and place them wherever you want. Then open Netbeans and select `open existing project` and select the downloaded files.
+
+More information
+----------------
+
+If you want to know more about Lilian, visit [catsoft-studios.com/projects][1] and click on the Lilian project. You will be redirected to a series of articles we wrote where it is explained how Lilian works.
+If you have any questions, you can contact us at [catsoft.studios][2] gmail.
+
+
+[1]: http://catsoft-studios.com/projects
+[2]: catsoft.studios@gmail.com

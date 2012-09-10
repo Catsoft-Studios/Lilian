@@ -34,4 +34,4 @@ If you have any questions, you can contact us at [catsoft.studios][2] gmail.
 
 
 [1]: http://catsoft-studios.com/projects
-[2]: catsoft.studios@gmail.com
+[2]: mailto:catsoft.studios@gmail.com

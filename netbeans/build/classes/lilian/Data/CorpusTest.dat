@@ -1,0 +1,16 @@
+################################################################################
+# DATA CORPUS FOR LILIAN 4.0 - DESIGNED BY CATSOFT STUDIOS, CODED IN BARCELONA
+# FOR MORE INFORMATION VISIT: http://catsoft-studios.com
+#
+# The following data belongs to a customized corpus designed by Catsoft Studios
+# The structure of the data is the following:
+# A '-' character indicates the beginning of an answer, followed by
+# any number of possible questions that answer it (starting by '+')
+################################################################################
+
+- ok
+- i am ok
++ How are you
+
+- i am fory five
++ How old are you

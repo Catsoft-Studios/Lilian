@@ -26,6 +26,10 @@ Installing Lilian
 
 The easiest way to install lilian is by downloading all files located inside the `netbeans` folder and place them wherever you want. Then open Netbeans and select `open existing project` and select the downloaded files.
 
+### Java classes
+
+If you want to compile Lilian with a different method, download the `java classes` files. You can start a project with a different IDE (like Eclipse) and import this files.
+
 More information
 ----------------
 
